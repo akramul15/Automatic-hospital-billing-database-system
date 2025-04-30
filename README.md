@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 
 - **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
+   git clone https://github.com/akramul15/hospital-management-system.git
    
 ## Triggers
 - **billing_and_update_charges**: This trigger is used to insert billing information and update charges automatically whenever a new appointment is scheduled.
@@ -63,4 +63,4 @@ Once the database is set up, you can interact with it using SQL queries or integ
 ## Hit the Star! ⭐
 If you are planning to use this repo for learning, please hit the star. Thanks!
 
-Authored by [Md. Akramul Islam](https://github.com/Akram0007).
+Authored by [Md. Akramul Islam](https://github.com/akramul15).
